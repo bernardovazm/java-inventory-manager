@@ -1,0 +1,4 @@
+com\inventorymanagement\controller\ProductController.class
+com\inventorymanagement\repository\ProductRepository.class
+com\inventorymanagement\InventoryApp.class
+com\inventorymanagement\model\Product.class
